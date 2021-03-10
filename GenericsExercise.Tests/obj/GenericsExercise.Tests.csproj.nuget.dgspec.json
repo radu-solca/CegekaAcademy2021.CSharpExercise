@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\raduso\\source\\repos\\GenericsExercise\\GenericsExercise.Tests\\GenericsExercise.Tests.csproj": {}
+    "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise.Tests\\GenericsExercise.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\raduso\\source\\repos\\GenericsExercise\\GenericsExercise.Tests\\GenericsExercise.Tests.csproj": {
+    "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise.Tests\\GenericsExercise.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\raduso\\source\\repos\\GenericsExercise\\GenericsExercise.Tests\\GenericsExercise.Tests.csproj",
+        "projectUniqueName": "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise.Tests\\GenericsExercise.Tests.csproj",
         "projectName": "GenericsExercise.Tests",
-        "projectPath": "C:\\Users\\raduso\\source\\repos\\GenericsExercise\\GenericsExercise.Tests\\GenericsExercise.Tests.csproj",
+        "projectPath": "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise.Tests\\GenericsExercise.Tests.csproj",
         "packagesPath": "C:\\Users\\raduso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\raduso\\source\\repos\\GenericsExercise\\GenericsExercise.Tests\\obj\\",
+        "outputPath": "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\raduso\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\raduso\\source\\repos\\GenericsExercise\\GenericsExercise\\GenericsExercise.csproj": {
-                "projectPath": "C:\\Users\\raduso\\source\\repos\\GenericsExercise\\GenericsExercise\\GenericsExercise.csproj"
+              "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise\\GenericsExercise.csproj": {
+                "projectPath": "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise\\GenericsExercise.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\raduso\\source\\repos\\GenericsExercise\\GenericsExercise\\GenericsExercise.csproj": {
+    "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise\\GenericsExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\raduso\\source\\repos\\GenericsExercise\\GenericsExercise\\GenericsExercise.csproj",
+        "projectUniqueName": "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise\\GenericsExercise.csproj",
         "projectName": "GenericsExercise",
-        "projectPath": "C:\\Users\\raduso\\source\\repos\\GenericsExercise\\GenericsExercise\\GenericsExercise.csproj",
+        "projectPath": "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise\\GenericsExercise.csproj",
         "packagesPath": "C:\\Users\\raduso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\raduso\\source\\repos\\GenericsExercise\\GenericsExercise\\obj\\",
+        "outputPath": "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\raduso\\AppData\\Roaming\\NuGet\\NuGet.Config",

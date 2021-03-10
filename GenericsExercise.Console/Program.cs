@@ -6,13 +6,6 @@ namespace GenericsExercise.Console
 {
     public class Program
     {
-        private readonly Persistence persistence;
-
-        public Program()
-        {
-            persistence = new Persistence();
-        }
-
         static void Main(string[] args)
         {
             System.Console.WriteLine("Hello World!");

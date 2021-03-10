@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RA31eXiegp4ERX/BlS/pbBXUcdnW2X/6kbjPQSlwuH360JJV4kWWaejUrPTVr0z2VV0CFMpmfpt33AtYi7s9lA==",
+  "dgSpecHash": "MuBoWYLkacneKxRt15be1NDU/PtwVS3SfOldg8JnDOoJqFqoC/t7xBfd3D4/FlNpgr3X6RUYm6YpgEmdKHfyyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\raduso\\source\\repos\\GenericsExercise\\GenericsExercise\\GenericsExercise.csproj",
+  "projectFilePath": "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise\\GenericsExercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\raduso\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\raduso\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

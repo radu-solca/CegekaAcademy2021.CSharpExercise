@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sT+H/SJ0cYYrbG3F5RQzDTpFQ4hZp2pE9SyrKloaR2PQSPZ2D5hhAjOKqBFCtwlNZeOjrKyRz0yjNh9hZ7RmUQ==",
+  "dgSpecHash": "N2sw9xVdZ293ku2q8k/JUTZ5RUCPyQ8qjwurj94nQIVAgg+uGLtEAxylQqTCUpzT0E85dossRyWb7OPvV2i3+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\raduso\\source\\repos\\GenericsExercise\\GenericsExercise.Console\\GenericsExercise.Console.csproj",
+  "projectFilePath": "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise.Console\\GenericsExercise.Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\raduso\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
   ],
