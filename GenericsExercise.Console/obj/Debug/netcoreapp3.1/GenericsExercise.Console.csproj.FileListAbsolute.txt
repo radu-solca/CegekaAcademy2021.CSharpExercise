@@ -1,0 +1,17 @@
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\obj\Debug\netcoreapp3.1\GenericsExercise.Console.csprojAssemblyReference.cache
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\obj\Debug\netcoreapp3.1\GenericsExercise.Console.AssemblyInfoInputs.cache
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\obj\Debug\netcoreapp3.1\GenericsExercise.Console.AssemblyInfo.cs
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\obj\Debug\netcoreapp3.1\GenericsExercise.Console.csproj.CoreCompileInputs.cache
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\bin\Debug\netcoreapp3.1\GenericsExercise.Console.exe
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\bin\Debug\netcoreapp3.1\GenericsExercise.Console.deps.json
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\bin\Debug\netcoreapp3.1\GenericsExercise.Console.runtimeconfig.json
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\bin\Debug\netcoreapp3.1\GenericsExercise.Console.runtimeconfig.dev.json
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\bin\Debug\netcoreapp3.1\GenericsExercise.Console.dll
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\bin\Debug\netcoreapp3.1\GenericsExercise.Console.pdb
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\obj\Debug\netcoreapp3.1\GenericsExercise.Console.dll
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\obj\Debug\netcoreapp3.1\GenericsExercise.Console.pdb
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\obj\Debug\netcoreapp3.1\GenericsExercise.Console.genruntimeconfig.cache
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\bin\Debug\netcoreapp3.1\GenericsExercise.dll
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\bin\Debug\netcoreapp3.1\GenericsExercise.pdb
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\obj\Debug\netcoreapp3.1\GenericsExercise.Console.csproj.CopyComplete

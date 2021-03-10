@@ -1,0 +1,9 @@
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise\bin\Debug\netstandard2.0\GenericsExercise.deps.json
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise\bin\Debug\netstandard2.0\GenericsExercise.dll
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise\obj\Debug\netstandard2.0\GenericsExercise.AssemblyInfoInputs.cache
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise\obj\Debug\netstandard2.0\GenericsExercise.AssemblyInfo.cs
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise\obj\Debug\netstandard2.0\GenericsExercise.csproj.CoreCompileInputs.cache
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise\bin\Debug\netstandard2.0\GenericsExercise.pdb
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise\obj\Debug\netstandard2.0\GenericsExercise.dll
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise\obj\Debug\netstandard2.0\GenericsExercise.pdb
+C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise\obj\Debug\netstandard2.0\GenericsExercise.csprojAssemblyReference.cache
