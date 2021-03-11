@@ -23,7 +23,7 @@ namespace GenericsExercise
                 entity.Id.Length > 10 // Id cannot be longer than 10 characters
             )
             {
-                throw new ArgumentException();
+                throw new ArgumentException("Id is invalid");
             }
 
             if (!storage.ContainsKey(nameof(TEntity)))
@@ -33,7 +33,7 @@ namespace GenericsExercise
 
             if (storage[nameof(TEntity)].Count >= 3) // there cannot be more than 3 items of a type
             {
-                throw new InvalidOperationException();
+                throw new InvalidOperationException("Cannot insert more than 3 entities of the same type");
             }
 
             storage[nameof(TEntity)].Add(JsonSerializer.Serialize(entity));
@@ -45,7 +45,7 @@ namespace GenericsExercise
         {
             if (!storage.ContainsKey(nameof(TEntity)))
             {
-                throw new Exception();
+                throw new InvalidOperationException("No entities of this type stored");
             }
 
             return Task.Run(() => storage[nameof(TEntity)].Select(json => JsonSerializer.Deserialize<TEntity>(json)));
