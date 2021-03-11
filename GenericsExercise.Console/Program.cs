@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 
 namespace GenericsExercise.Console
@@ -46,38 +45,26 @@ namespace GenericsExercise.Console
 
         static public void InsertStudent(string id, string firstName, string lastName)
         {
+            // code here
             throw new NotImplementedException();
         }
 
         static public void InsertUniversity(string id, string name, string address)
         {
+            // code here
             throw new NotImplementedException();
         }
 
         static public IEnumerable<Student> GetAllStudents()
         {
+            // code here
             throw new NotImplementedException();
         }
 
         static public IEnumerable<University> GetAllUniversities()
         {
+            // code here
             throw new NotImplementedException();
         }
-    }
-
-    public class Student : IEntity
-    {
-        public string Id { get; set; }
-
-        public string FisrtName { get; set; }
-        public string LastName { get; set; }
-    }
-
-    public class University : IEntity
-    {
-        public string Id { get; set; }
-
-        public string Name { get; set; }
-        public string Address { get; set; }
     }
 }

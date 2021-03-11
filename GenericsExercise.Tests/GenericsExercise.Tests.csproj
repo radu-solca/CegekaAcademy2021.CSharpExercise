@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GenericsExercise\GenericsExercise.csproj" />
+    <ProjectReference Include="..\GenericsExercise.Console\GenericsExercise.Console.csproj" />
   </ItemGroup>
 
 </Project>

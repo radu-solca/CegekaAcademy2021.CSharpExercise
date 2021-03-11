@@ -15,3 +15,16 @@ C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\bin\Debug
 C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\bin\Debug\netcoreapp3.1\GenericsExercise.dll
 C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\bin\Debug\netcoreapp3.1\GenericsExercise.pdb
 C:\Users\raduso\source\repos\GenericsExercise\GenericsExercise.Console\obj\Debug\netcoreapp3.1\GenericsExercise.Console.csproj.CopyComplete
+C:\1.Work\Academy2021\CegekaAcademy2021.CSharpExercise\GenericsExercise.Console\bin\Debug\netcoreapp3.1\GenericsExercise.Console.exe
+C:\1.Work\Academy2021\CegekaAcademy2021.CSharpExercise\GenericsExercise.Console\bin\Debug\netcoreapp3.1\GenericsExercise.Console.deps.json
+C:\1.Work\Academy2021\CegekaAcademy2021.CSharpExercise\GenericsExercise.Console\bin\Debug\netcoreapp3.1\GenericsExercise.Console.runtimeconfig.json
+C:\1.Work\Academy2021\CegekaAcademy2021.CSharpExercise\GenericsExercise.Console\bin\Debug\netcoreapp3.1\GenericsExercise.Console.runtimeconfig.dev.json
+C:\1.Work\Academy2021\CegekaAcademy2021.CSharpExercise\GenericsExercise.Console\bin\Debug\netcoreapp3.1\GenericsExercise.Console.dll
+C:\1.Work\Academy2021\CegekaAcademy2021.CSharpExercise\GenericsExercise.Console\bin\Debug\netcoreapp3.1\GenericsExercise.Console.pdb
+C:\1.Work\Academy2021\CegekaAcademy2021.CSharpExercise\GenericsExercise.Console\obj\Debug\netcoreapp3.1\GenericsExercise.Console.csprojAssemblyReference.cache
+C:\1.Work\Academy2021\CegekaAcademy2021.CSharpExercise\GenericsExercise.Console\obj\Debug\netcoreapp3.1\GenericsExercise.Console.AssemblyInfoInputs.cache
+C:\1.Work\Academy2021\CegekaAcademy2021.CSharpExercise\GenericsExercise.Console\obj\Debug\netcoreapp3.1\GenericsExercise.Console.AssemblyInfo.cs
+C:\1.Work\Academy2021\CegekaAcademy2021.CSharpExercise\GenericsExercise.Console\obj\Debug\netcoreapp3.1\GenericsExercise.Console.csproj.CoreCompileInputs.cache
+C:\1.Work\Academy2021\CegekaAcademy2021.CSharpExercise\GenericsExercise.Console\obj\Debug\netcoreapp3.1\GenericsExercise.Console.dll
+C:\1.Work\Academy2021\CegekaAcademy2021.CSharpExercise\GenericsExercise.Console\obj\Debug\netcoreapp3.1\GenericsExercise.Console.pdb
+C:\1.Work\Academy2021\CegekaAcademy2021.CSharpExercise\GenericsExercise.Console\obj\Debug\netcoreapp3.1\GenericsExercise.Console.genruntimeconfig.cache

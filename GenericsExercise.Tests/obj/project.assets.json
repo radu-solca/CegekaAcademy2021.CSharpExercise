@@ -1564,15 +1564,6 @@
           "ref/netstandard1.3/System.Text.Encoding.Extensions.dll": {}
         }
       },
-      "System.Text.Json/5.0.1": {
-        "type": "package",
-        "compile": {
-          "lib/netcoreapp3.0/System.Text.Json.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp3.0/System.Text.Json.dll": {}
-        }
-      },
       "System.Text.RegularExpressions/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1683,17 +1674,14 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "GenericsExercise/1.0.0": {
+      "GenericsExercise.Console/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "System.Text.Json": "5.0.1"
-        },
+        "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/GenericsExercise.dll": {}
+          "bin/placeholder/GenericsExercise.Console.dll": {}
         },
         "runtime": {
-          "bin/placeholder/GenericsExercise.dll": {}
+          "bin/placeholder/GenericsExercise.Console.dll": {}
         }
       }
     }
@@ -5428,28 +5416,6 @@
         "system.text.encoding.extensions.nuspec"
       ]
     },
-    "System.Text.Json/5.0.1": {
-      "sha512": "/UM3UK1dXKl8Ybysg/21gM4S8DJgkR+yLU8JwqCVbuNqQNImelntgYFAN5QxR8sJJ1kMx//hOUdf0lltosi8cQ==",
-      "type": "package",
-      "path": "system.text.json/5.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "LICENSE.TXT",
-        "THIRD-PARTY-NOTICES.TXT",
-        "lib/net461/System.Text.Json.dll",
-        "lib/net461/System.Text.Json.xml",
-        "lib/netcoreapp3.0/System.Text.Json.dll",
-        "lib/netcoreapp3.0/System.Text.Json.xml",
-        "lib/netstandard2.0/System.Text.Json.dll",
-        "lib/netstandard2.0/System.Text.Json.xml",
-        "system.text.json.5.0.1.nupkg.sha512",
-        "system.text.json.nuspec",
-        "useSharedDesignerContext.txt",
-        "version.txt"
-      ]
-    },
     "System.Text.RegularExpressions/4.3.0": {
       "sha512": "RpT2DA+L660cBt1FssIE9CAGpLFdFPuheB7pLpKpn6ZXNby7jDERe8Ua/Ne2xGiwLVG2JOqziiaVCGDon5sKFA==",
       "type": "package",
@@ -5887,16 +5853,16 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "GenericsExercise/1.0.0": {
+    "GenericsExercise.Console/1.0.0": {
       "type": "project",
-      "path": "../GenericsExercise/GenericsExercise.csproj",
-      "msbuildProject": "../GenericsExercise/GenericsExercise.csproj"
+      "path": "../GenericsExercise.Console/GenericsExercise.Console.csproj",
+      "msbuildProject": "../GenericsExercise.Console/GenericsExercise.Console.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "FluentAssertions >= 5.10.3",
-      "GenericsExercise >= 1.0.0",
+      "GenericsExercise.Console >= 1.0.0",
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
@@ -5931,8 +5897,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise\\GenericsExercise.csproj": {
-              "projectPath": "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise\\GenericsExercise.csproj"
+            "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise.Console\\GenericsExercise.Console.csproj": {
+              "projectPath": "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise.Console\\GenericsExercise.Console.csproj"
             }
           }
         }

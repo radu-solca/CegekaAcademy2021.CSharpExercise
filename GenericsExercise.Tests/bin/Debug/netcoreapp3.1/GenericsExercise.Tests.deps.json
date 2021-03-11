@@ -9,7 +9,7 @@
       "GenericsExercise.Tests/1.0.0": {
         "dependencies": {
           "FluentAssertions": "5.10.3",
-          "GenericsExercise": "1.0.0",
+          "GenericsExercise.Console": "1.0.0",
           "MSTest.TestAdapter": "2.1.0",
           "MSTest.TestFramework": "2.1.0",
           "Microsoft.NET.Test.Sdk": "16.5.0",
@@ -1043,14 +1043,6 @@
           "System.Text.Encoding": "4.3.0"
         }
       },
-      "System.Text.Json/5.0.1": {
-        "runtime": {
-          "lib/netcoreapp3.0/System.Text.Json.dll": {
-            "assemblyVersion": "5.0.0.0",
-            "fileVersion": "5.0.220.61120"
-          }
-        }
-      },
       "System.Text.RegularExpressions/4.3.0": {
         "dependencies": {
           "System.Runtime": "4.3.0"
@@ -1118,12 +1110,9 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "GenericsExercise/1.0.0": {
-        "dependencies": {
-          "System.Text.Json": "5.0.1"
-        },
+      "GenericsExercise.Console/1.0.0": {
         "runtime": {
-          "GenericsExercise.dll": {}
+          "GenericsExercise.Console.dll": {}
         }
       }
     }
@@ -1715,13 +1704,6 @@
       "path": "system.text.encoding.extensions/4.3.0",
       "hashPath": "system.text.encoding.extensions.4.3.0.nupkg.sha512"
     },
-    "System.Text.Json/5.0.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-/UM3UK1dXKl8Ybysg/21gM4S8DJgkR+yLU8JwqCVbuNqQNImelntgYFAN5QxR8sJJ1kMx//hOUdf0lltosi8cQ==",
-      "path": "system.text.json/5.0.1",
-      "hashPath": "system.text.json.5.0.1.nupkg.sha512"
-    },
     "System.Text.RegularExpressions/4.3.0": {
       "type": "package",
       "serviceable": true,
@@ -1771,7 +1753,7 @@
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
-    "GenericsExercise/1.0.0": {
+    "GenericsExercise.Console/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

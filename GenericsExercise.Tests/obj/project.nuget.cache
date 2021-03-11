@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lzce0XWVg/du918ZIs85ihdx7tgDi+IiUzhlLJpwOIITVX/0aXaVuk+11MUe3NTB8r5Chl+8jLUhE8/S/uQK/A==",
+  "dgSpecHash": "YoGrWXpZEHU5wt/UdXQ8bfErQHnZj3kLUF5CRJ+rPYkvZUTG+17tNdTiz/aeY/fYlRJn5GklDU0n6BS+04neEA==",
   "success": true,
   "projectFilePath": "C:\\1.Work\\Academy2021\\CegekaAcademy2021.CSharpExercise\\GenericsExercise.Tests\\GenericsExercise.Tests.csproj",
   "expectedPackageFiles": [
@@ -87,7 +87,6 @@
     "C:\\Users\\raduso\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
     "C:\\Users\\raduso\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\raduso\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
-    "C:\\Users\\raduso\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512",
     "C:\\Users\\raduso\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
     "C:\\Users\\raduso\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\raduso\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
