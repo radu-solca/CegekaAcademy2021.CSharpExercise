@@ -26,29 +26,29 @@ namespace GenericsExercise
                 throw new ArgumentException("Id is invalid");
             }
 
-            if (!storage.ContainsKey(nameof(TEntity)))
+            if (!storage.ContainsKey(typeof(TEntity).FullName))
             {
-                storage[nameof(TEntity)] = new List<string>();
+                storage[typeof(TEntity).FullName] = new List<string>();
             }
 
-            if (storage[nameof(TEntity)].Count >= 3) // there cannot be more than 3 items of a type
+            if (storage[typeof(TEntity).FullName].Count >= 3) // there cannot be more than 3 items of a type
             {
                 throw new InvalidOperationException("Cannot insert more than 3 entities of the same type");
             }
 
-            storage[nameof(TEntity)].Add(JsonSerializer.Serialize(entity));
+            storage[typeof(TEntity).FullName].Add(JsonSerializer.Serialize(entity));
 
             return Task.Run(() => { });
         }
 
         public Task<IEnumerable<TEntity>> GetAllAsync<TEntity>() where TEntity : IEntity
         {
-            if (!storage.ContainsKey(nameof(TEntity)))
+            if (!storage.ContainsKey(typeof(TEntity).FullName))
             {
                 throw new InvalidOperationException("No entities of this type stored");
             }
 
-            return Task.Run(() => storage[nameof(TEntity)].Select(json => JsonSerializer.Deserialize<TEntity>(json)));
+            return Task.Run(() => storage[typeof(TEntity).FullName].Select(json => JsonSerializer.Deserialize<TEntity>(json)));
         }
     }
 }
